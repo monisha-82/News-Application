@@ -75,7 +75,7 @@ nav {
 }
 
 .hover-link:active {
-    color: red;
+    color: rgb(241, 38, 38);
 }
 
 .nav-item.active {
